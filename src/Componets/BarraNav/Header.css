@@ -1,0 +1,60 @@
+.Header_NV{
+    width: 100%;
+    height: 12%;
+    display: flex;
+   background:linear-gradient(90deg,#020024 0,#0471a6 100%,#064983 100%,#00d4ff 100%);
+}
+.Box_BarraNV{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.btn_mv{
+    height: 35px;
+    width: 80px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+.btn_mv:hover{
+    height: 40px;
+    width: 85px;
+    border-bottom: 1px solid rgb(2, 2, 2);
+    zoom: 1.7;
+    color: rgb(240, 240, 240);
+}
+.box_Logo{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+}
+.Logo{
+    width: 55%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Logo:hover{
+    cursor: pointer;
+}
+.box_Carrito{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+
+
+
+
+
